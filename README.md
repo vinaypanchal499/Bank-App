@@ -38,7 +38,7 @@ BankApplication/
 | Field           | Details    |
 | --------------- | ---------- |
 | Account Number  | 1001       |
-| Account Holder  | Vinay jull |
+| Account Holder  | Vinay      |
 | PIN             | 1234       |
 | Initial Balance | ₹5000.0    |
 
@@ -129,7 +129,7 @@ Displays the account information.
 
 ```text
 Account Number: 1001
-Account Holder Name: Vinay jull
+Account Holder Name: Vinay 
 ```
 
 ### 5. Exit
@@ -186,7 +186,7 @@ Enter your choice:
 4
 
 Account Number: 1001
-Account Holder Name: Vinay jull
+Account Holder Name: Vinay 
 ```
 
 ## 🎯 Learning Objective
@@ -195,7 +195,7 @@ The main objective of this project is to understand how Java OOP concepts can be
 
 ## 👨‍💻 Author
 
-**Vinay jull**
+**Vinay**
 
 Computer Science & Engineering
 
